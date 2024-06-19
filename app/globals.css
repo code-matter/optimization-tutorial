@@ -160,6 +160,8 @@ main {
 
 .post img {
     object-fit: cover;
+    width: 8rem;
+    height: 6rem;
 }
 
 .post-image {
